@@ -1,4 +1,4 @@
-*OpenCart Manual Testing Project*
+***OpenCart Manual Testing Project***
 This repository contains comprehensive documentation and test cases for the manual testing of the OpenCart e-commerce platform. The project includes test scenarios, test cases, a requirements traceability matrix, and other artifacts to ensure the robustness and quality of OpenCart’s core functionalities.
 
 Table of Contents
