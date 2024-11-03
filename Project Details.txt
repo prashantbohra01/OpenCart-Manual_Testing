@@ -1,0 +1,10 @@
+Project Introduction
+Understanding and Explore the functionality
+Test Plan
+Writing test scenarios
+Writing test cases and reviews
+Environment setup and build deployment
+Test execution
+Bug reporting and tracking
+Sanity testing, Re-testing & Regression Testing
+Test sign off
