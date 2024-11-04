@@ -96,7 +96,7 @@ The RTM ensures all requirements are mapped to corresponding test cases, guarant
 | FR-04          | Shopping Cart                       | TC-15, TC-16    |
 | FR-06          | Admin Product Management            | TC-30, TC-31    |
 
-The complete RTM is available in the [RTM Document](./RTM.md).
+The complete RTM is available in the [RTM Document](./OpenCart-RTM.xlsx).
 
 ---
 
