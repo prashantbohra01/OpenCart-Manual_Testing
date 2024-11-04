@@ -81,7 +81,7 @@ Here are examples of test cases for common OpenCart functions:
 | TC-05        | Add product to cart                  | User is logged in, product exists  | 1. Go to product page <br> 2. Click "Add to Cart"                                                                                              | Product added to cart with correct quantity    |
 | TC-08        | Checkout process with valid payment  | User has items in cart, is logged in | 1. Go to checkout <br> 2. Fill in shipping and payment details <br> 3. Confirm order                                                          | Payment processed, confirmation displayed      |
 
-The complete list of test cases is available in the [Test Cases Document](./OpenCart-TestCases.xlsx).
+The complete list of test cases is available in the [Test Cases Document](./OpenCart_TestCases.xlsx).
 
 ---
 
